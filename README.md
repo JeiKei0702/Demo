@@ -1,6 +1,6 @@
 
 
-Once the app starts, go to the web browser and visit `http://localhost:8070/home`
+Once the app starts, go to the web browser and visit `http://localhost:8080/home`
 
 Admin username: **admin**
 
